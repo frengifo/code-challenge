@@ -1,0 +1,11 @@
+
+Installation
+
+1. Requerimientos:
+    b) Apache
+    c) PHP
+    d) MySQL
+2. Descargar los archivos
+3. Subir el contenido a tu servidor
+4. Actualizar el archivo config/config.php
+5. Ejecutar el script de base de datos
